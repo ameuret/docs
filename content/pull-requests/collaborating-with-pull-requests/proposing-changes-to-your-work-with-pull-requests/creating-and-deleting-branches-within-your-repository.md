@@ -76,3 +76,5 @@ For more information, see "[About branches](/github/collaborating-with-issues-an
 - "[About branches](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)"
 - "[Viewing branches in your repository](/github/administering-a-repository/viewing-branches-in-your-repository)"
 - "[Deleting and restoring branches in a pull request](/github/administering-a-repository/deleting-and-restoring-branches-in-a-pull-request)"
+- "[Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)" in the Git documentation
+
